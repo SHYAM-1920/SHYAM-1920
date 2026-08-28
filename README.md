@@ -2,22 +2,22 @@
 
 # 👋 Hi, I'm Shyamal Mandal
 
-### 💻 BCA Student • Frontend Developer • Programmer • Tech Enthusiast
+### 💻 BCA Student | Frontend Developer | Programmer | Tech Enthusiast
 
 <p>
   <a href="https://github.com/SHYAM-1920">
     <img src="https://img.shields.io/badge/GitHub-SHYAM--1920-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://github.com/SHYAM-1920?tab=followers">
-    <img src="https://img.shields.io/github/followers/SHYAM-1920?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+    <img src="https://img.shields.io/github/followers/SHYAM-1920?style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://github.com/SHYAM-1920?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-2ea44f?style=for-the-badge&logo=github" alt="Repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&logo=github" alt="Repositories">
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SHYAM-1920&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=SHYAM-1920&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
 
 </div>
@@ -26,80 +26,80 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shyamal Mandal**, a passionate BCA student and developer from India 🇮🇳 who enjoys turning ideas into useful digital experiences.
+I'm **Shyamal Mandal**, a BCA student and aspiring software developer from India 🇮🇳 with a strong interest in **web development, programming, and technology**.
 
-I love learning new technologies, building web projects, solving programming problems, and continuously improving my development skills.
+I enjoy transforming ideas into practical digital solutions, building projects, exploring new technologies, and continuously improving my problem-solving and development skills.
 
-* 🎓 Currently pursuing **BCA**
-* 💻 Passionate about **Web Development & Programming**
-* 🌱 Currently learning **Python, DSA, Software Engineering & Modern Web Technologies**
-* 🚀 Building **personal projects and developer-focused tools**
-* 🤝 Interested in **Open Source & Collaboration**
-* 🧠 Always learning, experimenting and improving
-* ⚡ I believe consistency + curiosity = growth
+* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+* 💻 Interested in **Frontend Development & Software Development**
+* 🌐 Building responsive and user-friendly web experiences
+* 🐍 Learning and working with **Python & C**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🔧 Using **Git & GitHub** for version control and collaboration
+* 🚀 Building real-world projects to improve practical development skills
+* 🤝 Open to **collaboration, open-source projects & learning opportunities**
+* 📚 Continuously learning and experimenting with modern technologies
 
-> **"Code. Learn. Build. Improve. Repeat."**
+> **"Build with purpose. Learn continuously. Improve every day."**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=c,python,js" alt="Programming Languages">
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies">
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools">
 </p>
 
-### 📚 Currently Learning
+### 📚 Core Knowledge
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,git,github" alt="Currently Learning">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0e75b6?style=for-the-badge" alt="DSA">
+  <img src="https://img.shields.io/badge/Software%20Engineering-6f42c1?style=for-the-badge" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/Problem%20Solving-2ea44f?style=for-the-badge" alt="Problem Solving">
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📚 Learning & Development
 
-<div align="center">
+I'm continuously improving my skills across:
 
-<a href="https://github.com/SHYAM-1920">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHYAM-1920&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="Shyamal's GitHub Stats">
-</a>
-
-<a href="https://github.com/SHYAM-1920">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAM-1920&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages">
-</a>
-
-</div>
+* 🐍 **Python Programming**
+* 💻 **C Programming**
+* 🌐 **HTML, CSS & JavaScript**
+* 🧠 **Data Structures & Algorithms**
+* ⚙️ **Software Engineering**
+* 🗄️ **Database & Backend Fundamentals**
+* 🔧 **Git & GitHub**
+* 🚀 **Modern Web Development**
+* 🤖 **AI-Assisted Development**
 
 ---
 
-## 📦 GitHub Overview
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/SHYAM-1920?tab=repositories">
-  <img src="https://img.shields.io/badge/📦%20TOTAL%20REPOSITORIES-View%20Live%20Count-0e75b6?style=for-the-badge" alt="Total Repositories">
-</a>
-
-<a href="https://github.com/SHYAM-1920?tab=stars">
-  <img src="https://img.shields.io/badge/⭐%20STARS%20RECEIVED-View%20Live%20Count-f1c40f?style=for-the-badge" alt="Stars">
+<a href="https://github.com/SHYAM-1920">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHYAM-1920&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Shyamal's GitHub Statistics">
 </a>
 
 <a href="https://github.com/SHYAM-1920">
-  <img src="https://img.shields.io/github/followers/SHYAM-1920?style=for-the-badge&label=GitHub%20Followers" alt="Followers">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAM-1920&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most Used Languages">
 </a>
 
 </div>
@@ -118,19 +118,19 @@ I love learning new technologies, building web projects, solving programming pro
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/SHYAM-1920">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAM-1920&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAM-1920&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity">
 </a>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -144,66 +144,29 @@ I love learning new technologies, building web projects, solving programming pro
 
 <div align="center">
 
-<a href="https://github.com/SHYAM-1920/SHYAM-1920">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAM-1920&repo=SHYAM-1920&theme=tokyonight&hide_border=true" alt="SHYAM-1920 Repository">
-</a>
-
-<a href="https://github.com/SHYAM-1920/github-profile-readme-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAM-1920&repo=github-profile-readme-generator&theme=tokyonight&hide_border=true" alt="GitHub Profile README Generator">
+<a href="https://github.com/SHYAM-1920?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHYAM-1920&repo=SHYAM-1920&theme=tokyonight&hide_border=true" alt="GitHub Profile Repository">
 </a>
 
 </div>
 
 <br>
 
-> 📌 More projects will be featured here as I continue building and publishing new work.
+> 🚀 I regularly build and publish projects while exploring new technologies and improving my development skills.
 
 <p align="center">
   <a href="https://github.com/SHYAM-1920?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github" alt="Explore Projects">
+    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github" alt="Explore Projects">
   </a>
 </p>
 
 ---
 
-# 🎯 Current Focus
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SHYAMAL'S 2026 ROADMAP                   │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🌐 Web Development              ████████████░░  Learning    │
-│  🐍 Python                       ██████████░░░░  Learning    │
-│  🧠 Data Structures & Algorithms █████████░░░░░  Improving   │
-│  ⚙️ Software Engineering         ████████░░░░░░  Studying    │
-│  💻 Git & GitHub                 ███████████░░░  Practicing  │
-│  🚀 Real-world Projects          ███████░░░░░░░  Building   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 📚 What I'm Learning
-
-* 🐍 Python Programming
-* 💻 C Programming
-* 🌐 HTML, CSS & JavaScript
-* 🧠 Data Structures & Algorithms
-* ⚙️ Software Engineering
-* 🗄️ Databases & Backend Fundamentals
-* 🔧 Git & GitHub
-* 🚀 Modern Web Development
-* 🤖 Exploring AI-powered development
-
----
-
 # 🤝 Let's Connect & Collaborate
 
-I'm always interested in connecting with other developers, students and creators.
+I'm always interested in connecting with developers, students, creators, and technology enthusiasts.
 
-If you're working on an interesting project, learning something new, or looking for a coding collaboration, feel free to connect with me.
+Whether it's **open-source collaboration, project development, learning, or sharing ideas**, I'm always open to meaningful technical conversations.
 
 <div align="center">
 
@@ -215,15 +178,15 @@ If you're working on an interesting project, learning something new, or looking 
 
 ---
 
-# 💡 Developer Mindset
+# 💡 Developer Philosophy
 
 <div align="center">
 
-### Learn → Build → Break → Fix → Improve → Repeat 🔁
+### Learn → Build → Solve → Improve → Repeat 🔁
 
 <br>
 
-**Every expert was once a beginner who refused to stop learning.**
+**"Consistency turns knowledge into skill."**
 
 </div>
 
@@ -233,39 +196,45 @@ If you're working on an interesting project, learning something new, or looking 
 
 If you find my projects useful or interesting:
 
-⭐ **Star a repository**
-🍴 **Fork a project**
-🐛 **Report an issue**
-🤝 **Contribute**
-💬 **Share feedback**
+⭐ Star a repository
+🍴 Fork a project
+🐛 Report an issue
+🤝 Contribute
+💬 Share feedback
 
-Every bit of support motivates me to build more. ❤️
+Your support motivates me to keep learning, building, and sharing.
 
 ---
 
 <div align="center">
 
-### 💻 Built with curiosity, powered by code.
+### 💻 Building today. Learning every day. Growing with technology.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
 
 <!--
-GitHub Profile README
-Username: SHYAM-1920
+============================================================
+                    SHYAMAL MANDAL
+                 GitHub Profile README
+============================================================
 
-Dynamic widgets used:
-- github-readme-stats
-- github-readme-streak-stats
-- github-readme-activity-graph
-- github-profile-trophy
-- skillicons.dev
-- shields.io
+GitHub: SHYAM-1920
 
-These services are external and may occasionally experience
-rate limits or temporary outages. The README itself remains valid
-Markdown even if a dynamic image temporarily fails.
+Dynamic services used:
+- GitHub Readme Stats
+- GitHub Streak Stats
+- GitHub Activity Graph
+- GitHub Profile Trophy
+- Skill Icons
+- Shields.io
+- Capsule Render
+
+Note:
+External dynamic widgets may occasionally experience
+rate limits or temporary outages.
+============================================================
 -->
