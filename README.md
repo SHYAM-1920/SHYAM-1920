@@ -356,9 +356,9 @@ My repositories include programming practice, web development, experiments and p
 
 <div align="center">
 
-<img src="./github-stats.svg" width="49%" alt="GitHub Statistics"/>
+<img src="https://github.com/jstrieb/github-stats/raw/generated/overview.svg#gh-dark-mode-only" width="49%" alt="GitHub Statistics"/>
 
-<img src="./top-languages.svg" width="49%" alt="Top Languages"/>
+<img src="https://github.com/jstrieb/github-stats/raw/generated/languages.svg#gh-dark-mode-only" width="49%" alt="Top Languages"/>
 
 </div>
 
@@ -366,7 +366,7 @@ My repositories include programming practice, web development, experiments and p
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Analyzing+Code+%E2%80%A2+Building+Projects+%E2%80%A2+Growing+Every+Day+%F0%9F%9A%80;Every+Commit+Counts+%F0%9F%92%BB;Keep+Coding.+Keep+Building.+Keep+Improving.+%F0%9F%94%A5" alt="Coding Animation"/>
+<img src="https://repository-images.githubusercontent.com/1126431904/d5ae7905-1227-4d33-9df1-aefca5e136e1" alt="Coding Animation"/>
 
 </div>
 
@@ -376,7 +376,7 @@ My repositories include programming practice, web development, experiments and p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAM-1920&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 ---
@@ -446,6 +446,7 @@ My repositories include programming practice, web development, experiments and p
 
 <div align="center">
 
+
 ```text
                 ┌──────────────────────────────┐
                 │      DEVELOPER JOURNEY       │
@@ -459,3 +460,14 @@ My repositories include programming practice, web development, experiments and p
                 │   Repeat      ██████████     │
                 │                              │
                 └──────────────────────────────┘
+              
+<br><br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3C%2F%3E+Code+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Repeat;Learning+Today+%E2%86%92+Building+Tomorrow+%F0%9F%9A%80;Every+Commit+Makes+Me+Better+%F0%9F%A7%A0;Thanks+For+Visiting+%F0%9F%91%8B" alt="Animated Footer"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:312e81&height=150&section=footer&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
