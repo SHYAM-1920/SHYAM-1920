@@ -359,19 +359,23 @@ My repositories include programming practice, web development, experiments and p
 
 <a href="https://github.com/SHYAM-1920">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=SHYAM-1920&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=86400"
-alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHYAM-1920&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=1800" alt="Shyamal's GitHub Statistics"/>
 
 </a>
 
 <a href="https://github.com/SHYAM-1920">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAM-1920&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400"
-alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHYAM-1920&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
 
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Analyzing+Code+%E2%80%A2+Building+Projects+%E2%80%A2+Growing+Every+Day+%F0%9F%9A%80;Every+Commit+Counts+%F0%9F%92%BB;Keep+Coding.+Keep+Building.+Keep+Improving.+%F0%9F%94%A5" alt="GitHub Activity Animation"/>
 
 </div>
 
