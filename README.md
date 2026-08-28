@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve+%F0%9F%9A%80;Frontend+Developer+%7C+Programmer;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Web+Development;Always+Learning.+Always+Building." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Code+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve+%F0%9F%9A%80;Frontend+Developer+%7C+Programmer;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Web+Development;Always+Learning.+Always+Building.;Turning+Ideas+Into+Code+%F0%9F%92%BB" alt="Typing Animation"/>
 
 <br><br>
 
@@ -37,7 +37,8 @@
 
 Hi, I'm **Shyamal Mandal** — a BCA student and developer from India 🇮🇳.
 
-I enjoy programming, web development, problem solving and building practical projects.  
+I enjoy programming, web development, problem solving and building practical projects.
+
 My development journey is focused on building a strong programming foundation and turning that knowledge into real-world applications.
 
 I work with multiple programming languages and technologies across **software development, web development, data structures, databases and development tools**.
@@ -54,6 +55,16 @@ I work with multiple programming languages and technologies across **software de
 - 🤖 Exploring AI-assisted development
 
 > **"Understand the fundamentals. Build real things. Keep improving."**
+
+---
+
+<!-- ANIMATED DIVIDER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="85%"/>
+
+</div>
 
 ---
 
@@ -159,12 +170,24 @@ I work with multiple programming languages and technologies across **software de
 
 ---
 
+<!-- CODING ANIMATION -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=%3Ccode%3E+is+my+canvas+%F0%9F%8E%A8;Debugging+is+part+of+the+journey+%F0%9F%90%9B;Build.+Break.+Fix.+Repeat.+%F0%9F%94%A5" alt="Coding Animation"/>
+
+</div>
+
+---
+
 # 🧠 Computer Science & Programming
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td>
 
 ### 🔹 Programming
@@ -197,7 +220,9 @@ I work with multiple programming languages and technologies across **software de
 - Algorithms
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -270,6 +295,44 @@ I also work with core software development concepts:
 
 ---
 
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Learning+Today+%E2%86%92+Building+Tomorrow+%F0%9F%9A%80;One+Concept+at+a+Time+%F0%9F%A7%A0;Consistency+%3E+Motivation+%F0%9F%94%A5" />
+
+</div>
+
+- ⚛️ React & Modern Frontend
+- 🟢 Node.js & Backend Fundamentals
+- 🐍 Advanced Python
+- 🧠 Data Structures & Algorithms
+- 🗄️ Database Design
+- 🔌 API Development
+- 🐳 Docker & Development Tools
+- 🤖 AI-assisted Development
+
+---
+
+# 🎯 2026 Developer Goals
+
+<div align="center">
+
+| Goal | Progress |
+|---|---|
+| 💻 Improve Programming Skills | 🔄 Learning |
+| 🧠 Master DSA Fundamentals | 🔄 In Progress |
+| 🌐 Build Modern Web Projects | 🔄 In Progress |
+| 🚀 Create Real-world Projects | 🔄 In Progress |
+| 🐙 Become More Active on GitHub | 🔄 Growing |
+| 🤖 Explore AI Development | 🔄 Exploring |
+
+</div>
+
+> **Small progress every day creates big results over time. 🚀**
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
@@ -314,6 +377,42 @@ alt="Top Languages"/>
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/SHYAM-1920">
+
+<img src="https://streak-stats.demolab.com?user=SHYAM-1920&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SHYAM-1920&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SHYAM-1920/SHYAM-1920/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+
+</div>
+
+> 🐍 **Every contribution tells a story. Keep coding, keep growing.**
+
+---
+
 # 📈 My GitHub Journey
 
 <div align="center">
@@ -322,7 +421,7 @@ alt="Top Languages"/>
 
 <img src="https://img.shields.io/badge/🧠%20Learning-Always%20Improving-8b5cf6?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/🚀%20Projects-Coming%20Soon-22c55e?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20Projects-Always%20Creating-22c55e?style=for-the-badge">
 
 </div>
 
@@ -338,7 +437,8 @@ alt="Top Languages"/>
                 │   Learn       ██████████     │
                 │   Code        ██████████     │
                 │   Build       █████████░     │
-                │   Debug      █████████░      │
+                │   Debug       █████████░     │
                 │   Improve     ██████████     │
+                │   Repeat      ██████████     │
                 │                              │
                 └──────────────────────────────┘
