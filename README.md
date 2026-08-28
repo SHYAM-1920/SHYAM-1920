@@ -471,3 +471,4 @@ My repositories include programming practice, web development, experiments and p
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:312e81&height=150&section=footer&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
+
