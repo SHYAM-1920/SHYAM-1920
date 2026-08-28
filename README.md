@@ -372,25 +372,23 @@ My repositories include programming practice, web development, experiments and p
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/SHYAM-1920">
-
-<img src="https://streak-stats.demolab.com?user=SHYAM-1920&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHYAM-1920&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
-
 ---
-
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SHYAM-1920&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/🚀-Building%20My%20GitHub%20Journey-0f172a?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/💻-Coding%20Every%20Day-172554?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/🧠-Always%20Learning-312e81?style=for-the-badge">
 
 </div>
 
@@ -400,7 +398,31 @@ My repositories include programming practice, web development, experiments and p
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SHYAM-1920/SHYAM-1920/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SHYAM-1920/SHYAM-1920/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SHYAM-1920/SHYAM-1920/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/SHYAM-1920/SHYAM-1920/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Every+Contribution+Tells+a+Story+%F0%9F%90%8D;Keep+Coding+%E2%80%A2+Keep+Growing+%E2%80%A2+Keep+Building+%F0%9F%9A%80" alt="Contribution Animation"/>
 
 </div>
 
